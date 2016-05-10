@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Testing Jekyll Now 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+One of the most attractive points about using github to host my website is that I can have the code and other content in one place. In the spirit open, fully reproducable science, I plan on periodically updating a range of research projects on this website.  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+```python
+# this is an example properly rendered python code 
+import numpy as np
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+test_np = np.zeros((3,3))
+```
