@@ -3,7 +3,7 @@ layout: post
 title: Testing Jekyll Now 
 ---
 
-One of the most attractive points about using github to host my website is that I can have the code and other content in one place. In the spirit open, fully reproducable science, I plan on periodically updating a range of research projects on this website.  
+One of the most attractive points about using github to host my website is that I can have the code and other content in one place. In the spirit of open, fully reproducable science, I plan on periodically updating a range of research projects on this website.  
 
 ```python
 # this is an example properly rendered python code 
