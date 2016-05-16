@@ -11,9 +11,9 @@ I also plan on presenting non-research related topics.
 
 ### More Information
 
-I a post-doc at the University of Washington's Applied Physics Lab, where I am funded under the Future of Ice Initiative. I study glaciers, rivers, and deltas.
+I am a post-doc at the University of Washington's Applied Physics Lab, where I am funded under the Future of Ice Initiative. I study glaciers, rivers, and deltas.
 
-I grew up in Seattle and Shoreline and returned in 2015 after 12 years away. 
+I grew up in Seattle and Shoreline and returned to the northwest in 2015 after 12 years away. 
 
 
 
