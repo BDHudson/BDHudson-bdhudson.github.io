@@ -60,4 +60,4 @@ Dask arrays are less flexibile than numpy arrays, so sometimes its helpful to mo
 # when you want to get out of the Dask array do this. 
  out = np.array(example)
 ```
-There is a lot more to both xarray and dask that I am just starting to tap into - but thats all for now. 
+There is a lot more to both xarray and dask that I am just starting to tap into - but that's all for now. 
