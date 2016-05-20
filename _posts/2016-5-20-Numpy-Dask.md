@@ -43,12 +43,17 @@ Here is where the magic happens. Open the tif and use da.from_array to daskify i
 
 ```python
 # Turn into numpy, then dask array
-example_numpy = da.from_array(geoTiffNumpy(example_tif),chunks=(1000,1000))
+example_numpy = da.from_array(geoTiffNumpy(example_tif),
+                              chunks=(1000,1000))
 
-# do something to the dask array that would normally break your code. 
-example =  example_numpy * example_numpy * example_numpy
+# do something to the dask array that would 
+# normally break your code. 
 
-# This is the important part/the cool thing. The work isn't actually done until you call this line. 
+example =  example_numpy * example_numpy
+
+# This is the important part/the cool thing. 
+# The work isn't actually done until you call this line. 
+
 example.compute()
 ```
 Dask arrays are less flexibile than numpy arrays, so sometimes its helpful to move the data back to numpy arrays, like this. 
