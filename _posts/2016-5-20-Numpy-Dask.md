@@ -11,7 +11,7 @@ Developed in part by folks at [the Climate Corporation](https://www.climate.com)
 
 ## Code Basics##
 
-First, import dask.array. I also import [rasterio](https://github.com/mapbox/rasterio), as it's an easy, open source way to interact with rasters. 
+First, import dask.array. 
 
 ```python
 
@@ -23,7 +23,7 @@ An example tif
 ```python 
 example_tif = 'Y:\\Documents\\DATA\\example.tif'
 ```
-This is also an example of a function I wrote to use rasterio to open a tif. Might be useful. 
+I also import [rasterio](https://github.com/mapbox/rasterio), as it's an easy, open source way to interact with rasters. 
 
 ```python 
 import rasterio
