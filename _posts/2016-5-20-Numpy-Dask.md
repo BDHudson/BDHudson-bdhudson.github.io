@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Quick Guide to Numpy + Dask 
