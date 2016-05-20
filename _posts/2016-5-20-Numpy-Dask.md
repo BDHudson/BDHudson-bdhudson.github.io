@@ -3,8 +3,6 @@ layout: post
 title: Quick Guide to Numpy + Dask 
 ---
 
-## Why use Dask##
-
 ![dask is easy]({{ site.baseurl }}/images/collections-schedulers.png "dask")
 
 If you already work with numpy arrays on a regular basis, dask is an easy way to make your code break less. Large arrays that in the past caused memory errors, suddenly work. This is really useful with large satellite images I work with. While it always pays to profile your code to find weak spots and write better code - Dask is as close to an easy button that I have found. 
