@@ -10,7 +10,7 @@ It stems from the very basic question - where should I go kayaking if I don't wa
 
 ## Convert data into a better format
 
-The data arrives as a .gdb folder. Step one is to convert it to something more flexible. To do so, I use the built in tools QGIS has take a .gdb and save it both a .csv and and .geoJson. These files are big,but they are a start.
+The data arrives as a .gdb folder. Step one is to convert it to something more flexible. To do so, I use the built in tools QGIS has take a .gdb and save it both a .csv and and .geoJson. These files are big, but they are a start.
 
 | data type     | size (GB)     | 
 | ------------- |:-------------:| 
