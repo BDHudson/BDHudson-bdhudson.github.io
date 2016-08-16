@@ -19,4 +19,6 @@ The data arrives as a .gdb folder. Step one is to convert it to something more f
 | geoJSON |7.95      |
 
 
-CSV can be easily read into pandas, Tableau, etc. I am exploring the uses geoJSON right now, but    
+CSV can be easily read into pandas, Tableau, etc.
+
+TO BE CONTINUED... 
