@@ -19,7 +19,9 @@ The data arrives as a .gdb folder. Step one is to convert it to something more f
 | CSV     | 2.35      | 
 | geoJSON |7.95      |
 
+## The old way
 
-CSV can be easily read into pandas, Tableau, etc.
+![an image alt text]({{ site.baseurl }}/images/Screen Shot 2016-07-27 at 3.30.16 PM.png "an image title")
 
-TO BE CONTINUED... 
+This is the old way - you plot your data in a GIS program such as arcGIS. This is painful, and takes forever.
+
