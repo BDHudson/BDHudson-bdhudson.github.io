@@ -3,7 +3,7 @@ layout: post
 title: Working with lots of point data
 ---
 
-[figure1](images/out.gif)
+![an image alt text]({{ site.baseurl }}/images/out.gif "an image title")
 
 This is a developing tutorial for working with massive amounts of location data. I think this type of work comes up most often with cellphone location data. Instead of using cell data, I am using [marine AIS vessel location data](http://marinecadastre.gov/ais/), from the U.S. Coast Guard. This data is perhaps not truely 'big', but one month takes up about 800 mb when zipped, and it takes arcGIS a long time to load (which might be a working definition of big data for GIS folks.) 
 
