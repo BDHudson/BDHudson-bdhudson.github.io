@@ -11,7 +11,6 @@ Worse yet with time stress can eat away at their confidence
 
 [Stressed out Post Doc](http://www.sciencemag.org/careers/2014/07/stressed-out-postdoc)
 
-
 "about 65% of US PhD-holders continue into a postdoc, only 15–20% of those move into tenure-track academic posts."
 
 [post-doc pile up](http://www.nature.com/news/the-future-of-the-postdoc-1.17253)
@@ -20,7 +19,7 @@ Worse yet with time stress can eat away at their confidence
 
 ### existing options are limited or expensive, potentially not necessary
 
-I for one still think that the term data science redunant  - that you can't be a scientist without data. But I also recongize that the field is in its youth (and might be compared to being described as a 'webmaster' back in the 1990s). it is a catch all, ill defined field. It involves the scale of data,etc. that makes it unique. 
+I for one still think that the term data science redunant  - that you can't be a scientist without data. But I also recongize that the field is in its youth (and might be compared to being described as a 'webmaster' back in the 1990s). it is a catch all, ill defined field. It involves the scale of data, etc. that makes it unique. 
 
 http://insightdatascience.com/
 http://xyz.insightdatascience.com/Insight_Data_Science_White_Paper.pdf
@@ -29,7 +28,7 @@ Options for retrainning assume programs have some secret sauce to offer that pos
 
 ### Self help 
 
-My assessment of the situation is not that these skills are not possessed by postdocs, but rather that they are irregularly developed in post-docs. Where research requires skills, they are very well developed. Collectively, put together a room of 20 post docs - and all the necessary skills exist in abundance. 
+My assessment of the situation is that postdocs have the skills, but that they are irregularly developed in post-docs. Where research requires skills, they are very well developed. Collectively, put together a room of 20 post docs - and all the necessary skills exist in abundance. 
 
 The need is to: 
 
@@ -38,5 +37,16 @@ The need is to:
 2) get real world experience (at least as robust as the data science for good program)  
 3) network with industry
 
+### The Goal 
 
+My proposal to the eScience Institute is such: 
+
+1) Form an interest group of post-docs
+2) Give them a forum to educate each other
+3) Use their skill and interest to push forward data science for social good projects during the 'offseason'.
+
+After a [DSSG project](http://escience.washington.edu/data-science-for-social-good-projects/
+) concludes work does continue. However,postdocs could be used to supercharge the projects.
+
+Post docs would comit to spending a ceratain number of hours a week/month. They wou then get supported by eScience in some capacity (but mostly from each other) 
 
