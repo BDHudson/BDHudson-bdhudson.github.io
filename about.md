@@ -20,4 +20,4 @@ I grew up in Seattle and Shoreline and returned to the northwest in 2015 after 1
 
 ### Contact me
 
-[bdhudson@uw.edu](mailto:bdhudson@uw.edu)
+[bdhudson@gmail.com](mailto:bdhudson@gmail.com)
