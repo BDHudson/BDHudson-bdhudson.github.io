@@ -1,3 +1,3 @@
 ## Welcome
 
-This is the code for my website
+This is Ben Hudson's non-academic website

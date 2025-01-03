@@ -5,7 +5,7 @@ title: Working with lots of point data
 
 ![Example of Datashading]({{ site.baseurl }}/images/out.gif "dataShading Magic")
 
-This is a  tutorial for visualizing and exploring massive amounts of location data. IT IS IN DEVELOPMENT. 
+This is a  tutorial for visualizing and exploring massive amounts of location data.
 
 I am stubborn when it comes to geographic data. I believe that data should be visualized and analysed at the scale it is collected at. However, often the data overwhelms the processing capabilities of scientists. With a wealth earth observing satellites, envirnmental sensors, and tools such as [LiDAR](https://en.wikipedia.org/wiki/Lidar), scientists often have more data than they know what to do with. Outside of academia, location data can be even more massive, such cell phone location data. This stubborness is why I get excited when I come across tools that let me interact with data at the scale it was actually collected at- tools like [dataShader](https://github.com/bokeh/datashader).   
 
